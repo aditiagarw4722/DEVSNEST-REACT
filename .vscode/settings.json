@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.automationShell.windows": "\"terminal.integrated.automation.windows\": [\"-ExecutionPolicy\", \"Bypass\"]",
+    "cSpell.words": [
+        "browserslist"
+    ],
+}
