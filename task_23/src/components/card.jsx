@@ -1,5 +1,5 @@
 const Card = ({image}) => {
-    return ( 
+    return (
         <div className="main">
             <center><h1><b>IMAGES</b></h1></center>
             <div className="card" style={{backgroundImage:`url(${image})`}}>
