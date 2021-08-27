@@ -1,22 +1,20 @@
-import './App.css';
-import Form from './components/Form';
-import Data from './data.json';
-import Listtodo from './components/listtodo';
-import {Provider} from 'react-redux';
-import Store from '../store';
-function  App () {
+import Form from "./components/form";
+import Todos from "./components/todos";
+import store from "./store";
+import { Provider } from "react-redux";
+import "./style.css";
 
-  return (
-    <div className="App">
-      <h1> Add To Do List</h1>
-      <Form />
-      <Data />
-      <Listtodo />
-      <Provider />
-      <Store />
-    
-    </div>
-  );
-};
+function App() {
+    return ( 
+        <div className = "App" >
+        
+        <Provider store = { store } >
+        
+        <Form />
+        <Todos />
+        </Provider> 
+        </div>
+    );
+}
 
 export default App;

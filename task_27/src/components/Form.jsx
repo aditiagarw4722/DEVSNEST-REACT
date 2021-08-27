@@ -13,7 +13,10 @@ const Form = () => {
             <div className="btn"></div>
                 <button onClick={()=>{setItem("");
                 if(item){
-                    dispatch (TodoActionAdd({title: item, done: false}))
+                    dispatch (TodoActionAdd({
+                        title: item, 
+                        done: false
+                    }))
                 }}}>Add </button>
                 </div>
                 </div>

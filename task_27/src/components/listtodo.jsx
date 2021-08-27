@@ -1,6 +1,6 @@
 import { useSelector } from "react-redux"
-import {TodoActionDelete} from "../reducer/todoAction"
-import { TodoActionDone } from "../reducer/todoAction"
+import {TodoActionDelete} from "../reducers/todoAction"
+import { TodoActionDone } from "../reducers/todoAction"
 import { useDispatch } from "react-redux"
 
 const ListTodo=()=>{
