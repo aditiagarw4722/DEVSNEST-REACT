@@ -9,3 +9,13 @@ node_modules/react-is/LICENSE
 node_modules/prop-types/LICENSE
 node_modules/js-tokens/LICENSE
 DAY29/
+*.map
+*.bnf
+*.yml
+node_modules/ajv/scripts/publish-built-version
+*.ps1
+node_modules/.bin/ansi-html
+*.cmd
+node_modules/.bin/cssesc
+*.json
+*.pegjs
