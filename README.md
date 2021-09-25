@@ -11,8 +11,8 @@ live Link Js: https://aditiagarw4722.github.io/resume_aditi/
 | DAY  | LINK |
 | ---| --- |
 |DAY 1 : |https://github.com/aditiagarw4722/resume_aditi/tree/master/task_1|
-|DAY2  : ||https://github.com/aditiagarw4722/resume_aditi/tree/master/task_1|
-|DAY3  :  |https://github.com/aditiagarw4722/resume_aditi/tree/master/task_3
+|DAY2  : |https://github.com/aditiagarw4722/resume_aditi/tree/master/task_1|
+|DAY3  : |https://github.com/aditiagarw4722/resume_aditi/tree/master/task_3
 |DAY4  : |https://github.com/aditiagarw4722/resume_aditi/tree/master/task_4
 |DAY5  : |https://github.com/aditiagarw4722/resume_aditi/tree/master/calculator
 |DAY6  : |https://github.com/aditiagarw4722/resume_aditi/tree/master/task6
