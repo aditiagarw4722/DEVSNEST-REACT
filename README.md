@@ -1,6 +1,14 @@
 
 <h1><b>DEVSNEST-REACT</b></h1>
 <br />
+
+Tha repo link :
+
+| DAY  | LINK |
+| ---| --- |
+|DAY 30: |https://github.com/aditiagarw4722/DEVSNEST-REACT/tree/main/Task-30-31|
+|DAY 31: |https://github.com/aditiagarw4722/DEVSNEST-REACT/tree/main/Task-30-31|
+
 Live Link React: https://github.com/aditiagarw4722/DEVSNEST-REACT
 <br>
 live Link Js: https://aditiagarw4722.github.io/resume_aditi/
