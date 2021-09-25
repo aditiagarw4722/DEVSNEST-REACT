@@ -42,20 +42,18 @@ live Link Js: https://aditiagarw4722.github.io/resume_aditi/
 |DAY33 :  |https://github.com/aditiagarw4722/resume_aditi/tree/master/THA-33
 |DAY34 :  |https://github.com/aditiagarw4722/resume_aditi/tree/master/THA-33
 |DAY35 :  |https://github.com/aditiagarw4722/resume_aditi/tree/master/THA-33
-  
-  <h5>BACKEND</h5>
 | DAY  | LINK |
 | ---| --- |
-|DAY 1 :|https://github.com/aditiagarw4722/devsnest-Backend/tree/master/Day-1
-|DAY2  : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day2
-|DAY3  : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day3
-|DAY4  : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day4.txt
-|DAY5  : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day5.txt
-|DAY6  : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day6.txt
-|DAY7  : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day7.txt
-|DAY8  : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day8.txt
-|DAY9  : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day10
-|DAY10 : |https://github.com/aditiagarw4722/resume_aditi/tree/master/task__10 
+|DAY 1: |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/Day-1
+|DAY2 : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day2
+|DAY3 : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day3
+|DAY4 : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day4.txt
+|DAY5 : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day5.txt
+|DAY6 : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day6.txt
+|DAY7 : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day7.txt
+|DAY8 : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day8.txt
+|DAY9 : |https://github.com/aditiagarw4722/devsnest-Backend/tree/master/day10
+|DAY10: |https://github.com/aditiagarw4722/resume_aditi/tree/master/task__10 
 
   
 <h1><b>DEVSNEST-REACT</b></h1>
