@@ -41,7 +41,7 @@ live Link Js: https://aditiagarw4722.github.io/resume_aditi/
 |DAY 31:  |https://github.com/aditiagarw4722/DEVSNEST-REACT/tree/main/Task-30-31|
 |DAY33 :  |https://github.com/aditiagarw4722/resume_aditi/tree/master/THA-33
 |DAY34 :  |https://github.com/aditiagarw4722/resume_aditi/tree/master/THA-33
-|DAY35 :  |https://github.com/aditiagarw4722/resume_aditi/tree/master/THA-33
+|DAY35 :  |https://github.com/aditiagarw4722/resume_aditi/tree/master/tha35
   
 <h4>BACKND</h5>
 
